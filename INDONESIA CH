@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1,Suluk® → USEETV SPORT
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+#EXTINF:-1,Suluk® → RCTI
+http://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:-1,Suluk® → MNC
+http://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:-1,Suluk® → INEWS
+http://lihattv.com/?play=43107
+#EXTINF:-1,Suluk® → GLOBALTV
+http://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1,Suluk® → SCTV
+http://lihattv.com/?play=43401
+#EXTINF:-1,Suluk® → INDOSIAR
+http://lihattv.com/?play=43400
+#EXTINF:-1,Suluk® → TRANS TV
+http://lihattv.com/?play=43399
+#EXTINF:-1,Suluk® → TRANS 7
+http://lihattv.com/?play=43398
+#EXTINF:-1,Suluk® → ANTV
+http://lihattv.com/?play=43397
+#EXTINF:-1,Suluk® → NET
+http://lihattv.com/?play=43396
+#EXTINF:-1,Suluk® → KOMPAS TV
+http://lihattv.com/?play=43395
+#EXTINF:-1,Suluk® → TV ONE
+http://lihattv.com/?play=43402
+#EXTINF:-1,Suluk® → TVRI
+http://lihattv.com/?play=43393
+#EXTINF:-1,Suluk® → METRO TV
+http://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8
+#EXTINF:-1,Suluk® → CNN_INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1,Suluk® → BERITA_SATU_HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1,Suluk® → RCTV
+http://lihattv.com/?play=43254
+#EXTINF:-1,Suluk® → TVRI SPORT
+http://lihattv.com/?play=43422
+#EXTINF:-1,Suluk® → NIRWANA TV
+http://lihattv.com/?play=43257
+#EXTINF:-1,Suluk® → JAWAPOS TV
+http://lihattv.com/?play=43263
+#EXTINF:-1,Suluk® → JTV
+http://lihattv.com/?play=43272
+#EXTINF:-1,Suluk® → RTV
+http://lihattv.com/?play=43391
+#EXTINF:-1,Suluk® → TV_MUHAMMADIYAH
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
+#EXTINF:-1,Suluk® → ICTA TV
+http://lihattv.com/?play=43310
+#EXTINF:-1,Suluk® → KLIK MUSIC
+http://lihattv.com/?play=43211
+#EXTINF:-1,Suluk® → RBTV
+http://lihattv.com/?play=43230
+#EXTINF:-1,Suluk® → RODJA TV
+http://lihattv.com/?play=43390
+#EXTINF:-1,Suluk® → FILM INDO
+http://lihattv.com/?play=43192
+#EXTINF:-1,Suluk® → BTV
+http://lihattv.com/?play=43251
+#EXTINF:-1,Suluk® → JPNN TV
+http://lihattv.com/?play=43275
+#EXTINF:-1,Suluk® → MNC NEWS
+http://lihattv.com/?play=43111
+#EXTINF:-1,Suluk® → MNC SHOP
+http://lihattv.com/?play=43421
+#EXTINF:-1,Suluk® → MNC LIFESTYLE
+http://lihattv.com/?play=43117
+#EXTINF:-1,Suluk® → CHANEL NEWS ASIA
+http://lihattv.com/?play=43361
+#EXTINF:-1,Suluk® → ELSHINTA TV
+http://lihattv.com/?play=43394
+#EXTINF:-1,Suluk® → THE INDONESIA CHANNEL
+http://lihattv.com/?play=43307
