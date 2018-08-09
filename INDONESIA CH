@@ -4,35 +4,37 @@ https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
 #EXTINF:-1,Suluk® → USEETV SPORT
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 #EXTINF:-1,Suluk® → RCTI
-http://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
 #EXTINF:-1,Suluk® → MNC
-http://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
 #EXTINF:-1,Suluk® → INEWS
-http://lihattv.com/?play=43107
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8
 #EXTINF:-1,Suluk® → GLOBALTV
-http://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
 #EXTINF:-1,Suluk® → SCTV
-http://lihattv.com/?play=43401
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
 #EXTINF:-1,Suluk® → INDOSIAR
-http://lihattv.com/?play=43400
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
 #EXTINF:-1,Suluk® → TRANS TV
-http://lihattv.com/?play=43399
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
 #EXTINF:-1,Suluk® → TRANS 7
-http://lihattv.com/?play=43398
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/1024.m3u8
 #EXTINF:-1,Suluk® → ANTV
-http://lihattv.com/?play=43397
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1,Suluk® → NET
 http://lihattv.com/?play=43396
+#EXTINF:-1,Suluk® → NET HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 #EXTINF:-1,Suluk® → KOMPAS TV
-http://lihattv.com/?play=43395
+http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
 #EXTINF:-1,Suluk® → TV ONE
-http://lihattv.com/?play=43402
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
 #EXTINF:-1,Suluk® → TVRI
-http://lihattv.com/?play=43393
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
 #EXTINF:-1,Suluk® → TVRI SPORT
 http://lihattv.com/?play=43422
 #EXTINF:-1,Suluk® → METRO TV
-http://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8
+http://210.210.155.35/qwr9ew/s/s49/index1.m3u8
 #EXTINF:-1,Suluk® → CNN_INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1,Suluk® → BERITA_SATU_HD
@@ -48,7 +50,7 @@ http://lihattv.com/?play=43263
 #EXTINF:-1,Suluk® → JTV
 http://lihattv.com/?play=43272
 #EXTINF:-1,Suluk® → RTV
-http://lihattv.com/?play=43391
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
 #EXTINF:-1,Suluk® → TV_MUHAMMADIYAH
 rtmp://118.97.183.222:1935/discover/muhammadiyahtv
 #EXTINF:-1,Suluk® → ICTA TV
@@ -58,7 +60,7 @@ http://lihattv.com/?play=43211
 #EXTINF:-1,Suluk® → RBTV
 http://lihattv.com/?play=43230
 #EXTINF:-1,Suluk® → RODJA TV
-http://lihattv.com/?play=43390
+http://210.210.155.35/qwr9ew/s/s14/index1.m3u8
 #EXTINF:-1,Suluk® → FILM INDO
 http://lihattv.com/?play=43192
 #EXTINF:-1,Suluk® → BTV
@@ -107,3 +109,30 @@ http://lihattv.com/?play=43413
 http://lihattv.com/?play=43208
 #EXTINF:-1,Suluk® → FOX
 http://lihattv.com/?play=43346
+#EXTINF:-1,Suluk® → FOX FAMILY MOVIES
+http://lihattv.com/?play=43352
+#EXTINF:-1,Suluk® → FOX ACTION MOVIES
+http://lihattv.com/?play=43351
+#EXTINF:-1,Suluk® → FOX LIFE
+http://lihattv.com/?play=43342
+#EXTINF:-1,Suluk® → MY CINEMA
+http://lihattv.com/?play=43427
+#EXTINF:-1,Suluk® → KIX
+http://lihattv.com/?play=43340
+#EXTINF:-1,Suluk® → FOX SPORT HK
+http://lihattv.com/?play=43359
+#EXTINF:-1,Suluk® → FOX SPORT 1
+http://lihattv.com/?play=43353.m3u
+#EXTINF:-1,Suluk® → FOX SPORT 2
+http://lihattv.com/?play=43354
+#EXTINF:-1,Suluk® → FOX SPORT 3
+http://lihattv.com/?play=43355
+#EXTINF:-1,Suluk® → NATIONAL GEOGRAPHIC
+http://lihattv.com/?play=43347
+#EXTINF:-1,Suluk® → NAT GEO WILD
+http://lihattv.com/?play=43348
+#EXTINF:-1,Suluk® → CGTN DOCUMENTARY
+http://lihattv.com/?play=43404
+
+
+
